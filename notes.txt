@@ -2,4 +2,8 @@ Initial thoughts
 Second line
 
 ## Merge summary
+<<<<<<< HEAD
 - Different main edit
+=======
+- Merge path example
+>>>>>>> feature/merge-example
