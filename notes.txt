@@ -2,4 +2,8 @@ Initial thoughts
 Second line
 
 ## Summary
+<<<<<<< HEAD
 - Different summary on main (rebase)
+=======
+- Rebase scenario summary
+>>>>>>> 38fa282 (Add Summary (rebase scenario))
