@@ -1,2 +1,5 @@
 Initial thoughts
 Second line
+
+## Merge summary
+- Merge path example
